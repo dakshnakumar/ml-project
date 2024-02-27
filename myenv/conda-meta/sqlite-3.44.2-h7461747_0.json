@@ -35,7 +35,7 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "sqlite",
   "sha256": "120f42ee2b7cee46711693609f8a7e7918befbd370c960332c0ef13ca651c0d8",
   "size": 890038,
   "subdir": "osx-64",

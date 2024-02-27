@@ -217,7 +217,7 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "readline",
   "sha256": "41e7d30a097d9b060037f0c6a2b1d4c4ae7e942c06c943d23f9d481548478568",
   "size": 255870,
   "subdir": "osx-64",

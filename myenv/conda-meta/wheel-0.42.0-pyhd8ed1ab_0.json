@@ -431,7 +431,7 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "wheel",
   "sha256": "80be0ccc815ce22f80c141013302839b0ed938a2edb50b846cf48d8a8c1cfa01",
   "size": 57553,
   "subdir": "noarch",

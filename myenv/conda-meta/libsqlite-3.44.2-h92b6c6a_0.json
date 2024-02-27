@@ -65,7 +65,7 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "libsqlite",
   "sha256": "8a317d2aa6352feba951ca09d5bf34f565f9dd10bb14ff842b8650baa321d781",
   "size": 891089,
   "subdir": "osx-64",

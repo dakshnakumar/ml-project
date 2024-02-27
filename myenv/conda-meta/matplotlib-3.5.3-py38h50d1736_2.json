@@ -1,0 +1,37 @@
+{
+  "build": "py38h50d1736_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-64",
+  "constrains": [],
+  "depends": [
+    "matplotlib-base >=3.5.3,<3.5.4.0a0",
+    "python >=3.8,<3.9.0a0",
+    "python_abi 3.8.* *_cp38",
+    "tornado"
+  ],
+  "extracted_package_dir": "/Users/dakshnakumar/opt/miniconda3/pkgs/matplotlib-3.5.3-py38h50d1736_2",
+  "features": "",
+  "files": [],
+  "fn": "matplotlib-3.5.3-py38h50d1736_2.tar.bz2",
+  "license": "LicenseRef-PSF-based",
+  "license_family": "PSF",
+  "link": {
+    "source": "/Users/dakshnakumar/opt/miniconda3/pkgs/matplotlib-3.5.3-py38h50d1736_2",
+    "type": 1
+  },
+  "md5": "23e4ffdb854ca152150d1c971a9d1e8d",
+  "name": "matplotlib",
+  "package_tarball_full_path": "/Users/dakshnakumar/opt/miniconda3/pkgs/matplotlib-3.5.3-py38h50d1736_2.tar.bz2",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "matplotlib",
+  "sha256": "f6254732ef030dfba3027c7263ab43240abe306902e84c71955bfe1e1bf640f8",
+  "size": 7279,
+  "subdir": "osx-64",
+  "timestamp": 1661440313717,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/matplotlib-3.5.3-py38h50d1736_2.tar.bz2",
+  "version": "3.5.3"
+}

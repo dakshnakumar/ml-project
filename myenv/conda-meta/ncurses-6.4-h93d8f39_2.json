@@ -22943,7 +22943,7 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "ncurses",
   "sha256": "ea0fca66bbb52a1ef0687d466518fe120b5f279684effd6fd336a7b0dddc423a",
   "size": 822031,
   "subdir": "osx-64",
